@@ -1,10 +1,6 @@
-![Hello World!!!](img/manuelDenisDev-gitHubPresentacion.jpg)
-# Hola comunidad de ***GitHub***!!! :earth_africa:
-
-![Imagen de prueba](img/manuelDenisDev-gitHubPresentacion.jpg "Imagen de prueba")
+![¡Hola Mundo! Soy Manuel Denis Developer](img/manuelDenisDev-gitHubPresentacion.jpg "¡Hola Mundo! Soy Manuel Denis Developer")
 
 ---
-
 
 | :es: | [Español](README.md) | :uk: | [English](README.md) | :fr: | [Français](README.md) | :portugal: | [Português](README.md) |
 | - | - | - | - | - | - | - | - |
@@ -36,6 +32,15 @@
 ### :brain: &nbsp;Mis conocimientos
 
 ---
+
+| Front-End | Programación | Bases de Datos | Frameworks | CMS | Control de Versiones
+| - | - | - | - | - | - | - | - |
+| HTML5 | javaScript | MySQL | React | WordPress | Git
+| CSS3 | ECMAScript | MongoDB | Node JS | Joomla | GitHub
+| SASS | PHP | | Symfony | 
+| Bootstrap | Phyton | | jQuery
+
+<!-
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat: Front-end:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_minus_sign: HTML5.\
