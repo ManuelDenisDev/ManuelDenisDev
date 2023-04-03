@@ -40,7 +40,7 @@
 | SASS | PHP | | Symfony | 
 | Bootstrap | Phyton | | jQuery
 
-<!-
+
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat: Front-end:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_minus_sign: HTML5.\
