@@ -11,7 +11,7 @@
 
 ### :space_invader: &nbsp;Sobre Mi
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp;Actualmente cursando el Bootcamp Full Stack Developer de CODE SPACE Academy.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp;Actualmente cursando el Bootcamp Full Stack Developer de CODE SPACE Academy.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:headphones: &nbsp;Me apasiona la música, los conciertos y los festivales.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mountain: &nbsp;Me encanta el senderismo, :runner: salir a correr e :weight_lifting_man: ir el gimnasio.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Diseñador Gráfico con mas de 10 años de experiencia y creador de contenidos.\
@@ -30,7 +30,13 @@
 
 ---
 
-:brain: 
+### :brain: &nbsp;Mis conocimientos
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat: Programación:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- javaScript 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- javaScript
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- javaScript
+
 
 ---
 
