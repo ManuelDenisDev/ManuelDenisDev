@@ -1,4 +1,4 @@
-![image](https://github.com/ManuelDenisDev/ManuelDenisDev/assets/126793941/ManuelDenisDev-Header.png)
+![image](https://github.com/ManuelDenisDev/ManuelDenisDev/ManuelDenisDev-Header.png)
 
 👋🏻 ¡Bienevenido a mi perfil! Mi nombre es Manuel y soy un desarrollador web Full Stack con pasión por los diseños innovadores.
 
@@ -10,4 +10,4 @@
 
 🌱 ¡No dudes en echar un vistazo a mi [Porfolio](https://manueldenis.netlify.app/) y no dudes en contactarme si tienes alguna pregunta!
 
-🔗 Puedes encontrarme en: [LinkedIn](https://www.linkedin.com/in/manuel-den%C3%ADs-dev/), [Twitter](https://twitter.com/ManuelDenisDev) 
+🔗 Puedes encontrarme en: [LinkedIn](https://www.linkedin.com/in/manuel-den%C3%ADs-dev/), [Twitter](https://twitter.com/ManuelDenisDev)
